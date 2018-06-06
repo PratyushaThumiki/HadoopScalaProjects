@@ -1,0 +1,18 @@
+1)wordcount
+2)most popular movies
+  **Find moviename 
+3)total spent by cust
+4)Friends by Age
+
+
+Sec 6 - sn dg
+================
+DF,DS
+/** Find the movies with the most ratings. */
+
+Retail Project
+
+5)min/max temp
+6)ratings histogram
+
+

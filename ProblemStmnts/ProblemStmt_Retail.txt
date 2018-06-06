@@ -1,0 +1,51 @@
+/*=======================================================================
+Customer module:
+=======================================================================
+
+1. list out how many customers txns in each state?
+ HOLD ** 1.1.list out how many customers(distinct) txns in each state?
+
+2. list out how many customers(distinct) are doing shopping in each city?
+
+3. list out how many customers are there in each profession?
+3.1 list out how many customer txns are there in each profession?
+
+4. list out how many customers are there in each age group(<=35,36-50,>50)?
+
+5. list out how many customer txns  category-wise?
+
+6. list out how many customers are doing payment using credit/debit ?
+
+
+=======================================================================
+Finance module:
+=======================================================================
+1.Find customer spents
+ 1.1)In o/p need customer name also.
+
+2. find out top customer based on total amount he/she spent?
+
+3. find out customer who spent more/less amount in shopping in each category?
+
+//4. find out customer who spent more/less amount in shopping in each type?
+
+5. list out customer names who are top in each category?
+
+6. list out how many customers are there in each customer_type like 'GOLD/SILVER/BRONZE' ?
+
+-- Txn Amt >= 100 => GOLD
+-- Txn Amt >= 50 and Txn Amt < 100 => SILVER
+-- Txn Amt < 50 => BRONZE
+ 
+ 
+===============================================================================================
+Transaction module:
+================================================================================================
+1.Find no of txns in each category and find top one?
+2. list out top customers who did more transactions in each category?
+3 Top 5 customers?
+
+4. find out which customer had done more number of times shopping?
+
+5. list out how many customers are there in each customer_type like 'GOLD/SILVER/BRONZE' ?
+=================================================================================================*/
